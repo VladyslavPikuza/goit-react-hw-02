@@ -1,0 +1,11 @@
+.feedback {
+    text-align: center;
+}
+
+.feedback h2 {
+    margin-bottom: 10px;
+}
+
+.feedback p {
+    margin: 5px 0;
+}
